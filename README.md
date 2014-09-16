@@ -1,4 +1,4 @@
-wew.github.io
+wew.github.com
 =============
 
 write less,do more
